@@ -16,7 +16,7 @@ Este projeto é um conversor de moedas feito em Java com orientação a objetos.
 
 *************** 
 
-# 💱 Currency Converter in Java
+# 💱 Currency Converter 
 
 This project is a currency converter built in Java using object-oriented programming. It allows the user to convert values between currencies of their choice, as well as view the conversion history. The project meets the basic requirements of the Tech Foundation ONE G8 BR Challenge, and also includes extra features such as conversion history, logging, and support for additional currencies. Exception handling is implemented, including a restriction that only existing currency codes are accepted as input.
 
