@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas em Java
+# 💱 Conversor de Moedas
 
 Este projeto é um conversor de moedas feito em Java com orientação a objetos. Ele permite que o usuário converta valores entre moedas de sua escolha, além de visualizar o histórico de conversões. Este projeto segue os requisitos básicos pedidos no Desafio Tech Foundation ONE G8 BR, além de funções extras para criaçao de histórico, registro de logs e opção para conversão de novas moedas. Há tratamento de exceções, na qual são perimitidas somente entradas de siglas de moedas existentes.  
 
