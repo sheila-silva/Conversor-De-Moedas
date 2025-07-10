@@ -13,7 +13,7 @@ Este projeto é um conversor de moedas feito em Java com orientação a objetos.
 ## 🛠️ Tecnologias
 
 - IntelliJ
-- API Exchange Rate
+- API ExchangeRate
 
 *************** 
 
